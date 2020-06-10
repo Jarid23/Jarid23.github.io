@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD90A248-36B9-4F91-9318-FB1A40A0188B}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{4B9AB035-5213-424E-9122-40CFCD976A13}"
+	ProjectSection(SolutionItems) = preProject
+		main.css = main.css
+		nav.css = nav.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{D649366F-D2D3-4CC8-935A-F3B3459BEEE7}"
+	ProjectSection(SolutionItems) = preProject
+		bootstrap.bundle.min.js = bootstrap.bundle.min.js
+		jquery-3.4.1.min.js = jquery-3.4.1.min.js
+		nav.js = nav.js
+		script.js = script.js
+		script1.js = script1.js
+		script2.js = script2.js
+		script3.js = script3.js
+		script4.js = script4.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{A176BACF-BA92-4543-8A34-93B076E0CFB3}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+		index2.html = index2.html
+		index3.html = index3.html
+		index4.html = index4.html
+		index5.html = index5.html
+		nav.html = nav.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B9AB035-5213-424E-9122-40CFCD976A13} = {AD90A248-36B9-4F91-9318-FB1A40A0188B}
+		{D649366F-D2D3-4CC8-935A-F3B3459BEEE7} = {AD90A248-36B9-4F91-9318-FB1A40A0188B}
+		{A176BACF-BA92-4543-8A34-93B076E0CFB3} = {AD90A248-36B9-4F91-9318-FB1A40A0188B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF38EFEE-2840-4A2E-A033-77CEA09CF509}
+	EndGlobalSection
+EndGlobal
